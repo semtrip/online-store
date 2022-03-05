@@ -1,0 +1,47 @@
+.products {
+    width: 100%;
+    height: 100%;
+    padding: 100px;
+    box-sizing: border-box;
+    padding-top: 0;
+}
+
+.sort-block {
+    padding: 100px;
+    padding-bottom: 20px;
+}
+
+.tab-pane {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.cart {
+    padding: 100px;
+}
+
+.order {
+    padding: 100px;
+}
+
+.tab-pane {
+    display: none;
+}
+
+.tab-pane.active {
+    display: flex;
+}
+
+.add-product {
+    padding: 100px;
+}
+
+.order-list {
+    padding: 100px;
+    padding-top: 0;
+}
+
+.search-block {
+    padding: 100px;
+}
